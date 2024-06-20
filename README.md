@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="60%" align="center">
 
@@ -41,15 +41,16 @@ Here are some ideas to get you started:
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=left>
+<div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Bbeboy&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
+<!--- trophy (end) -->
 
-
+<!---Snake --->
 </p>        
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
+  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio9/main/resources/img/github-contribution-grid-snake.svg"
+    alt="Bbeboy" />
+<!---Snake end--->

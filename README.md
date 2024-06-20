@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <!---Snake --->
 </p>        
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio9/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
+  https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/output/github-contribution-grid-snake-dark.svg
 </p>  
 <!---Snake end--->

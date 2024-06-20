@@ -1,3 +1,7 @@
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
+</p>
 ## Hi there 👋
 
 <!--
@@ -49,7 +53,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
     alt="iscpatricio92" />
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
-</p>

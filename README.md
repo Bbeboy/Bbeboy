@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 </p>        
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio9/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Bbeboy" />
+    alt="iscpatricio92" />
 <!---Snake end--->

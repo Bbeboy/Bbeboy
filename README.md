@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <!--- trophy (end) -->
 
 <!---Snake --->
-</p>        
 <p align="center">
-  https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/output/github-contribution-grid-snake-dark.svg
-</p>  
+  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
+    alt="iscpatricio92" />
+</p>
 <!---Snake end--->

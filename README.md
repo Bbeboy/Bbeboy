@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=22&duration=3000&pause=500&color=FB8C00&random=false&width=435&lines=Hi+I'm+Daniel+Herrera+;Computer+Engineering+Student;Java+Developer" alt="Typing SVG" /></a>  
 </p>
 ## Hi there 👋
 

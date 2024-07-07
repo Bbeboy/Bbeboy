@@ -1,4 +1,4 @@
-<p align="left center">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FB8C00&center=true&vCenter=true&random=false&width=435&lines=Hi+I'm+Daniel+Herrera;Computer+Science+Student;Java+Developer" alt="Typing SVG" /></a>
 </p>
 ## Hi there 👋

@@ -21,6 +21,8 @@ I build apps and storefronts for Shopify and Tiendanube: custom apps, headless s
 
 ### Tech I use most
 
+Day to day that means TypeScript and React, with Java and Spring on some backends. For data and infrastructure I usually reach for PostgreSQL or Supabase, Cloudflare R2 for object storage, and cloudflared tunnels when I need to expose a local build.
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -31,7 +33,11 @@ I build apps and storefronts for Shopify and Tiendanube: custom apps, headless s
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare R2 and Tunnels" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -46,6 +52,8 @@ I build apps and storefronts for Shopify and Tiendanube: custom apps, headless s
   - He llevado sitios web completos del diseño al deploy, frontend de principio a fin, conectados a servicios externos por REST y GraphQL.
   - He migrado tiendas completas entre plataformas: productos, inventarios, clientes, órdenes. Las migraciones masivas se rompen de formas que la documentación nunca menciona.
   - Ahora estoy terminando una app móvil que consume la Storefront GraphQL API de Shopify. Un desarrollo headless pequeño, y ya casi sale.
+
+  En el día a día eso significa TypeScript y React, con Java y Spring en algunos backends. Para datos e infraestructura suelo usar PostgreSQL o Supabase, R2 de Cloudflare para almacenamiento de archivos y túneles de cloudflared cuando necesito exponer un build local.
 
 </details>
 
